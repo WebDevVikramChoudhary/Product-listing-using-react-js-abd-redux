@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "Name": "Racold geyser",
+      "Quantity": 3,
+      "Price": 6000,
+      "id": 2
+    },
+    {
+      "Name": "Dell inspiron",
+      "Quantity": 4,
+      "Price": 50000,
+      "id": 3
+    },
+    {
+      "Name": "vivo",
+      "Quantity": 2,
+      "Price": 15000,
+      "id": 4
+    },
+    {
+      "Name": "realme ",
+      "Quantity": 2,
+      "Price": 25000,
+      "id": 5
+    },
+    {
+      "Name": "hp 14s",
+      "Quantity": 1,
+      "Price": 51999,
+      "id": "c7707b8c-7b8b-4c3f-9017-c533391b4a6c"
+    },
+    {
+      "Name": "mi note 10s",
+      "Quantity": 1,
+      "Price": 14999,
+      "id": "4d0e7853-351b-4eb1-a31c-c84475e8e4bc"
+    },
+    {
+      "Name": "last one",
+      "Quantity": 3,
+      "Price": 1245,
+      "id": "8be73632-33b3-4313-abf8-6016e44e16aa"
+    }
+  ]
+}
